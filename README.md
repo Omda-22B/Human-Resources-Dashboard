@@ -106,6 +106,6 @@ The dashboard provides pie charts breaking down attrition by gender across diffe
 4.	Visualization 
 Data Visualization is the graphical representation of information and data. It involves creating visual elements like charts, graphs, and maps to understand large amounts of information easily and quickly. Visualization is an essential part of data analysis, as it provides an intuitive way to detect patterns, correlations, and trends in the data.
 
-
 #Conclusion
+
 This HR Analytics Dashboard offers valuable insights into workforce trends such as attrition, job satisfaction, and demographic breakdowns by gender and education. The data reveals potential areas for improvement, particularly in managing high attrition in technology departments, addressing gender-specific issues, and enhancing employee satisfaction in certain job roles. These insights are crucial for developing targeted HR strategies aimed at improving retention and employee well-being.
