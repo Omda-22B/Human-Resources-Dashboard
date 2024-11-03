@@ -32,3 +32,47 @@ These objectives focus on improving human resource management through in-depth a
 <a href="https://github.com/Omda-22B/Human-Resources-Dashboard/blob/main/SatisfiedLevel.csv">Dataset</a>
 
 
+Analysis Questions Phase
+General
+1.	What is the number of employees?
+2.	What is the number of active employees?
+3.	what is the number of attrition employees?
+4.	what is the avg age?
+5.	what is the Attrition Ratio?
+Attrition
+6.	what is the number of employees according to group age?
+7.	what is the number of employees according to Education Field?
+8.	what is the number of employees according to business travel?
+9.	what is the number of employees according to distance?
+10.	what is the number of employees according to department?
+11.	what is the number of employees according gender?
+12.	what is the number of employees according to state?
+Job & Environmental Satisfaction
+13.	what is the number of employees according to Education Field?
+14.	what is the number of employees according to job role?
+15.	what is the number of employees according to state?
+
+#2)	Analysis and Forecasting Questions
+In the world of data-driven decision-making, analysis and forecasting play pivotal roles. Analysis involves studying historical data to uncover patterns, trends, and insights that help businesses and organizations make informed decisions. Forecasting, on the other hand, goes a step further by predicting future outcomes based on historical data, allowing for proactive planning and strategy development.
+Analysis Questions Phase
+General
+1.	What is the number of employees?
+2.	What is the number of active employees?
+3.	what is the number of attrition employees?
+4.	what is the avg age?
+5.	what is the Attrition Ratio?
+Attrition
+6.	what is the number of employees according to group age?
+7.	what is the number of employees according to Education Field?
+8.	what is the number of employees according to business travel?
+9.	what is the number of employees according to distance?
+10.	what is the number of employees according to department?
+11.	what is the number of employees according gender?
+12.	what is the number of employees according to state?
+Job & Environmental Satisfaction
+13.	what is the number of employees according to Education Field?
+14.	what is the number of employees according to job role?
+15.	what is the number of employees according to state?
+
+Dashboard Interaction <a href="https://github.com/Omda-22B/Human-Resources-Dashboard/blob/main/ScreenShot.jpeg"> View Dashboaed </a> 
+Dashboard Interaction <a href="https://github.com/Omda-22B/Human-Resources-Dashboard/blob/main/ScreenShot%202.jpeg"> View Dashboaed </a> 
