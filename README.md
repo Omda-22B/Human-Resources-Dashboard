@@ -19,10 +19,16 @@ Objective
 6)	Training Program Evaluation:
 •	Objective: Analyze training data to assess the impact of training programs on employee performance and identify the most effective programs.
 •	Outcome: Improve training programs and enhance employees' professional skills.
-
-
-
 7)	Employee Experience Improvement:
 •	Objective: Analyze employee satisfaction data through surveys and key performance indicators to identify areas for improvement in the employee experience within the company.
 •	Outcome: Enhance job satisfaction and increase employee loyalty to the company.
 These objectives focus on improving human resource management through in-depth analysis of employee data, leading to better overall performance and more effective achievement of organizational goals.
+
+#Dataset Used
+<a href="https://github.com/Omda-22B/Human-Resources-Dashboard/blob/main/EducationLevel.csv">Dataset</a>
+<a href="https://github.com/Omda-22B/Human-Resources-Dashboard/blob/main/Employee.csv">Dataset</a>
+<a href="https://github.com/Omda-22B/Human-Resources-Dashboard/blob/main/PerformanceRating.csv">Dataset</a>
+<a href="https://github.com/Omda-22B/Human-Resources-Dashboard/blob/main/RatingLevel.csv">Dataset</a>
+<a href="https://github.com/Omda-22B/Human-Resources-Dashboard/blob/main/SatisfiedLevel.csv">Dataset</a>
+
+
