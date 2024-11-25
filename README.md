@@ -74,6 +74,8 @@ Job & Environmental Satisfaction
 14.	what is the number of employees according to job role?
 15.	what is the number of employees according to state?
 
+
+[Main Dashboard]("D:\رواد مصر\Tableau\Main Dashboard.jpeg")
 Dashboard Interaction <a href="https://github.com/Omda-22B/Human-Resources-Dashboard/blob/main/ScreenShot.jpeg"> View Dashboaed </a> 
 Dashboard Interaction <a href="https://github.com/Omda-22B/Human-Resources-Dashboard/blob/main/ScreenShot%202.jpeg"> View Dashboaed </a> 
 
